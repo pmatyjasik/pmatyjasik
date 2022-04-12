@@ -7,6 +7,9 @@ I really enjoy React and JavaScript. In general I am interested in everything wh
 I try to learn new things every day.
 
 
+### Contact
+---
+
  <a href="https://www.linkedin.com/in/piotr-matyjasik/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -16,6 +19,7 @@ I try to learn new things every day.
 
 
 ### :hammer_and_wrench: Languages and Tools :
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
