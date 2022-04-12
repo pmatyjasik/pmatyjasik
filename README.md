@@ -1,6 +1,5 @@
 <img width="100%" src="https://i.ibb.co/0BGWZVV/github.png" alt="PiotrMatyjasik"/>
 
----
 ### Hi, I'm Piotrek!
 ---
 I'm Piotrek, I'm 22 years old. I'm Computer Science Student at West Pomeranian University of Technology.  
