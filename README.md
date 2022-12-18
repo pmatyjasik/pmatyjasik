@@ -2,9 +2,9 @@
 
 ### Hi, I'm Piotrek!
 ---
-I'm Piotrek, I'm 22 years old. I'm Computer Science Student at West Pomeranian University of Technology.  
-I really enjoy React and JavaScript. In general I am interested in everything what concerns Frontend Developing.  
-I try to learn new things every day.
+I am interested in and involved in web application development. I have been deepening my knowledge for more than 3 years. My main interest is in the Front-end but I am also developing in the Back-end (C#, .NET, SQL) area.
+
+Portfolio: https://pmatyjasik.com
 
 
 ### Contact
