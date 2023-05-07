@@ -2,7 +2,7 @@
 
 ### Hi, I'm Piotrek!
 ---
-I am Bachelor of Computer Science and I am interested in and involved in web application development. I have been deepening my knowledge for more than 4 years. My main interest is in the Front-end.
+I am Bachelor of Computer Science and I am interested in and involved in web application development. I have been deepening my knowledge for more than 4 years.
 
 Portfolio: https://pmatyjasik.com
 
