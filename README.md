@@ -2,7 +2,15 @@
 
 ### Hi, I'm Piotrek!
 ---
-I am Bachelor of Computer Science and I am interested in and involved in web application development. I have been deepening my knowledge for more than 4 years.
+For the past 4 years, I have been passionate about web application development with a focus on Front-end. With over 2.5 years of professional experience, I have dedicated myself to furthering my knowledge in this ever-evolving field. I specialize in technologies such as: 
+* React,
+* Next.js, 
+* Javascript, 
+* Typescript, 
+* HTML, 
+* CSS,
+* TailwindCSS,
+* Git.
 
 <a href="https://pmatyjasik.dev" target="_blank" rel="noopener noreferrer">My website</a>
 
