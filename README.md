@@ -2,7 +2,7 @@
 
 ### Hi, I'm Piotrek!
 ---
-For the past 4 years, I have been passionate about web application development with a focus on Front-end. With over 2.5 years of professional experience, I have dedicated myself to furthering my knowledge in this ever-evolving field. I specialize in technologies such as: 
+For the past 4 years, I have been passionate about web application development with a focus on frontend. With over 2.5 years of professional experience, I have dedicated myself to furthering my knowledge in this ever-evolving field. I specialize in technologies such as: 
 * React,
 * Next.js, 
 * Javascript, 
