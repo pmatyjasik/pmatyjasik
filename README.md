@@ -15,7 +15,7 @@ You can learn more about me at:
 ### 🚀 Featured Projects
 ---
 
-#### [Kai - Grocery Shopping List (iOS App)](https://kai.verly.app/)  
+#### [Kai - Grocery List (iOS App)](https://kai.verly.app/)  
 The smartest way to shop - multiple shopping lists, AI-powered item grouping, and lightning-fast performance. Shopping has never been this effortless.
 
 #### [Isao - Daily Quotes (iOS App)](https://isao.verly.app/)  
