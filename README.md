@@ -1,5 +1,3 @@
-<img width="100%" src="https://i.ibb.co/0BGWZVV/github.png" alt="PiotrMatyjasik"/>
-
 ### Hi, I'm Piotrek!
 ---
 I’m a passionate software developer with nearly 5 years of experience in the IT industry, specializing in front-end development while also working across mobile and backend technologies.
