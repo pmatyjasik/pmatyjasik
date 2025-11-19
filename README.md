@@ -21,7 +21,7 @@ The smartest way to shop — multiple shopping lists, AI-powered item grouping, 
 #### [Isao — Personalized Motivation Quotes (iOS App)](https://isao.verly.app/)  
 Super-personalized motivational quotes delivered daily, tailored to your journey. Start every day inspired and ready to achieve your goals.
 
-#### [Verly CMS](https://cms.verly.app/en)
+#### [Verly CMS - Appointment Management](https://cms.verly.app/en)
 Verly CMS is a tool designed to help businesses manage customers and schedule appointments with ease. Currently in active development, Verly focuses on delivering a powerful web-based platform for streamlined customer and appointment management.
 
 
