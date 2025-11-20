@@ -15,10 +15,10 @@ You can learn more about me at:
 ### 🚀 Featured Projects
 ---
 
-#### [Kai - Grocery List (iOS App)](https://kai.verly.app/)  
+#### [Kai - Grocery List (iOS App)](https://apps.apple.com/pl/app/kai-grocery-list/id6747010480)  
 The smartest way to shop - multiple shopping lists, AI-powered item grouping, and lightning-fast performance. Shopping has never been this effortless.
 
-#### [Isao - Daily Quotes (iOS App)](https://isao.verly.app/)  
+#### [Isao - Daily Quotes (iOS App)](https://apps.apple.com/us/app/isao-daily-quotes/id6755051258)  
 Super-personalized motivational quotes delivered daily, tailored to your journey. Start every day inspired and ready to achieve your goals.
 
 #### [Verly CMS - Appointment Management](https://cms.verly.app/en)
