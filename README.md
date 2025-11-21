@@ -37,10 +37,12 @@ Verly CMS is a tool designed to help businesses manage customers and schedule ap
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -55,7 +57,7 @@ Verly CMS is a tool designed to help businesses manage customers and schedule ap
 
 #### Testing & API
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-FF0055?style=for-the-badge&logo=react&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -69,7 +71,6 @@ Verly CMS is a tool designed to help businesses manage customers and schedule ap
 #### Concepts & Design
 ![RWD](https://img.shields.io/badge/Responsive_Design-4BCFFA?style=for-the-badge&logo=css3&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI_CD-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
-![Effects & Animations](https://img.shields.io/badge/Effects_Animations-FF69B4?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-00C6FF?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6f42c1?style=for-the-badge&logo=python&logoColor=white)
 
