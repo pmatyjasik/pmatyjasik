@@ -13,10 +13,10 @@ AI Engineer (TypeScript / React) - I build **LLM agents** and ship them in real 
 ### 🚀 Featured Projects
 ---
 
-#### [Isao - Daily Quotes (iOS)](https://apps.apple.com/us/app/isao-daily-quotes/id6755051258)
+#### Isao - Daily Quotes (iOS)
 AI-personalized daily motivational quotes. React Native + LLM-based personalization.
 
-#### [Kai - Grocery List (iOS)](https://apps.apple.com/pl/app/kai-grocery-list/id6747010480)
+#### Kai - Grocery List (iOS)
 Shopping lists with AI-powered item categorization and real-time sync. React Native.
 
 #### [Verly - Appointment Management](https://cms.verly.app/en)
