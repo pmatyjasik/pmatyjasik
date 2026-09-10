@@ -1,36 +1,30 @@
 ### Hi, I'm Piotrek! 👋
 ---
 
-AI Engineer (TypeScript / React) - I build **LLM agents** and ship them in real products. Ex-founder @ **TesterArmy (YC P26)**. ~5 years of engineering across frontend, mobile and backend.
+**Full-Stack Product Engineer | TypeScript · React · AI Agents**
 
-### 🤖 What I build with LLMs
----
+Full-stack product engineer (TypeScript / React) with ~5 years of shipping end-to-end - from high-traffic frontend at one of Poland/CEE's largest media groups to co-founding TesterArmy (Y Combinator P26), where I built an AI agent that autonomously tests web and mobile apps.
 
-- **Autonomous agents** - at TesterArmy (YC P26) I built an AI agent that autonomously tests web & mobile apps: it explores an app like a real user via LLM tool-calling, with context management and orchestration to catch bugs before release
-- **AI-powered apps** - my iOS apps use LLMs in production: personalized daily content (Isao), smart item categorization (Kai)
-- **AI automation** - internal agents automating developer workflows (at Grupa Wirtualna Polska)
 
 ### 🚀 Featured Projects
 ---
 
-#### Isao - Daily Quotes (iOS)
-AI-personalized daily motivational quotes. React Native + LLM-based personalization.
+**[FormsLab](https://github.com/Ryczko/FormsLab)** - open-source form builder for surveys and feedback (540+ stars), one of the top contributors
 
-#### Kai - Grocery List (iOS)
-Shopping lists with AI-powered item categorization and real-time sync. React Native.
+**Isao & Kai** - AI-powered iOS apps (React Native + LLMs), shipped to the App Store
 
-#### [Verly - Appointment Management](https://cms.verly.app/en)
-Customer & appointment management platform. Next.js + Supabase, in active development.
-
-#### [FormsLab](https://github.com/Ryczko/FormsLab)
-Open-source form builder for surveys and feedback (540+ ⭐) - one of the top contributors.
+**[Verly](https://cms.verly.app/en)** - customer & appointment management platform (Next.js, Supabase)
 
 ### 🛠️ Stack
 ---
 
-**AI / LLM:** LLM APIs (OpenAI / Anthropic) · tool-calling & agents · context engineering · MCP · CLI · structured outputs
+**Core:** TypeScript · React · Next.js · Node.js · TailwindCSS · GraphQL · REST
 
-**Core:** TypeScript · React · Next.js · React Native · Node.js · TailwindCSS · Jest · Playwright · Docker
+**Databases:** PostgreSQL · MySQL · MongoDB · Supabase
+
+**AI / LLM:** LLM APIs · agents & tool-calling · context engineering
+
+**Testing:** Jest · React Testing Library · Playwright
 
 ### 📬 Contact
 ---
