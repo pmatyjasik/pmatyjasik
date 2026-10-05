@@ -17,16 +17,19 @@ Full-stack product engineer (TypeScript / React) with 5+ years of shipping end-t
 
 ### 🛠️ Stack
 ---
+**Core:** TypeScript, JavaScript, React, Next.js, Node.js, TailwindCSS, GraphQL, REST
 
-**Core:** TypeScript · JavaScript · React · Next.js · Node.js · TailwindCSS · GraphQL · REST
+**Databases:** PostgreSQL, MySQL, MongoDB, Supabase
 
-**Databases:** PostgreSQL · MySQL · MongoDB · Supabase
+**AI / LLM:** LLM APIs, agents & tool-calling, context engineering
 
-**AI / LLM:** LLM APIs · AI agents · tool-calling · context engineering · MCP
+**Agentic coding:** Claude Code, Cursor, Codex
 
-**AI tooling:** Claude Code · Cursor · Codex
+**Testing:** Jest, React Testing Library, Playwright
 
 **Testing:** Jest · React Testing Library · Playwright
+
+**Languages:** Polish (native), English (B2)
 
 ### 📬 Contact
 ---
